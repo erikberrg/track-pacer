@@ -4,7 +4,7 @@
 An **interactive LED pacing system** for a 200m track, designed to help runners train with precise pacing.  The system is controlled via a **React Native app**, which allows users to create custom presets for speed, color, distance, and repetitions.  The lights are powered by **WS2812B LEDs** and controlled by **Teensy 4.1 microcontrollers** that synchronize via **WiFi and Bluetooth**
 
 ## Features
-**Customizalbe Pacing Presets** - Set distance, speed, color, repetitions, and delays.
+**Customizable Pacing Presets** - Set distance, speed, color, repetitions, and delays.
 **Real-Time Synchronization** - LEDs light up in sync with a moving animation in the app.
 **Multi-Device Communication** - Teensy microcontrollers communicate over WiFi while the React Native app uses BLE for real-time control.
 
