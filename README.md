@@ -15,8 +15,8 @@ An **interactive LED pacing system** for a 200m track, designed to help runners 
 **BLE:** Adafruit BLE UART Friend
 **LED Control:** FastLED Library (WS2812B)
 
-# Contributors
+## Contributors
 Erik Berg & Jacob Jeager
 
-# License
+## License
 This project is licensed under the MIT License.
